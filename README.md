@@ -10,7 +10,7 @@
 3、修改config中的账号、运营商与密码
 
 4、启动设置
-   win+r打开“运行”窗口，输入shell:startup打开windows启动设置，新建auto_login.pyw的快捷方式，使其开机时能自启动
+   win+r打开“运行”窗口，输入shell:startup打开windows启动文件夹，新建auto_login.pyw的快捷方式，使其开机时能自启动
 
 5、日志
-   脚本每次运行会自动记录日志，在auto_login.pyw的相同目录下
+   脚本每次运行会自动记录日志，日志在auto_login.pyw的相同目录下
